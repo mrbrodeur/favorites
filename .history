@@ -4,3 +4,4 @@
 2023-02-13.21-33-13.Marcs-MacBook-Pro-2.local git branch -m main
 2023-02-13.21-33-36.Marcs-MacBook-Pro-2.local touch favorites.txt
 2023-02-13.21-33-58.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-45-05.Marcs-MacBook-Pro-2.local git switch -f movies
