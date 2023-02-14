@@ -1,11 +1,11 @@
-2023-02-13.21-32-20.Marcs-MacBook-Pro-2.local cd favorites
-2023-02-13.21-32-31.Marcs-MacBook-Pro-2.local git init
-2023-02-13.21-33-08.Marcs-MacBook-Pro-2.local git config --global init.defaultBranch main
-2023-02-13.21-33-13.Marcs-MacBook-Pro-2.local git branch -m main
-2023-02-13.21-33-36.Marcs-MacBook-Pro-2.local touch favorites.txt
-2023-02-13.21-33-58.Marcs-MacBook-Pro-2.local git status
-2023-02-13.21-48-07.Marcs-MacBook-Pro-2.local git switch -f main
-2023-02-13.21-48-14.Marcs-MacBook-Pro-2.local git merge foods
-2023-02-13.21-48-35.Marcs-MacBook-Pro-2.local git merge -f foods
-2023-02-13.21-50-54.Marcs-MacBook-Pro-2.local git merge foods
-2023-02-13.21-50-58.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-52-10.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-52-16.Marcs-MacBook-Pro-2.local git merge foods
+2023-02-13.21-52-55.Marcs-MacBook-Pro-2.local touch .gitignore
+2023-02-13.21-53-20.Marcs-MacBook-Pro-2.local git merge foods
+2023-02-13.21-53-28.Marcs-MacBook-Pro-2.local git add .
+2023-02-13.21-53-31.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-54-03.Marcs-MacBook-Pro-2.local git merge foods
+2023-02-13.21-54-18.Marcs-MacBook-Pro-2.local git merge movies
+2023-02-13.21-56-20.Marcs-MacBook-Pro-2.local git merge movies
+2023-02-13.21-56-36.Marcs-MacBook-Pro-2.local git main
+2023-02-13.21-56-41.Marcs-MacBook-Pro-2.local git switch main
