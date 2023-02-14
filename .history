@@ -4,3 +4,8 @@
 2023-02-13.21-33-13.Marcs-MacBook-Pro-2.local git branch -m main
 2023-02-13.21-33-36.Marcs-MacBook-Pro-2.local touch favorites.txt
 2023-02-13.21-33-58.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-48-07.Marcs-MacBook-Pro-2.local git switch -f main
+2023-02-13.21-48-14.Marcs-MacBook-Pro-2.local git merge foods
+2023-02-13.21-48-35.Marcs-MacBook-Pro-2.local git merge -f foods
+2023-02-13.21-50-54.Marcs-MacBook-Pro-2.local git merge foods
+2023-02-13.21-50-58.Marcs-MacBook-Pro-2.local git status
