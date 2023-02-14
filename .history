@@ -4,3 +4,13 @@
 2023-02-13.21-33-13.Marcs-MacBook-Pro-2.local git branch -m main
 2023-02-13.21-33-36.Marcs-MacBook-Pro-2.local touch favorites.txt
 2023-02-13.21-33-58.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-34-03.Marcs-MacBook-Pro-2.local git add .
+2023-02-13.21-34-05.Marcs-MacBook-Pro-2.local git status
+2023-02-13.21-34-22.Marcs-MacBook-Pro-2.local git commit -m "initial"
+2023-02-13.21-34-33.Marcs-MacBook-Pro-2.local git push remote origin
+2023-02-13.21-36-00.Marcs-MacBook-Pro-2.local git remote add origin git@github.com:mrbrodeur/favorites.git
+2023-02-13.21-36-16.Marcs-MacBook-Pro-2.local git push -u origin main
+2023-02-13.21-36-54.Marcs-MacBook-Pro-2.local clear
+2023-02-13.21-37-16.Marcs-MacBook-Pro-2.local git branch foods
+2023-02-13.21-37-24.Marcs-MacBook-Pro-2.local git switch -c movies
+2023-02-13.21-37-28.Marcs-MacBook-Pro-2.local git switch foods
